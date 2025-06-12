@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749717226,
+	"version": 1749718069,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,14 @@
 		"images/playsheet-sheet0.png",
 		"images/border_up-sheet0.png",
 		"images/particles.png",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"media/bts fandom - game over.m4a",
+		"media/bts fandom - game over.ogg",
+		"media/pop sfx.m4a",
+		"media/pop sfx.ogg",
+		"media/bts fandom - bgm.m4a",
+		"media/bts fandom - bgm.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
